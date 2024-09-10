@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the description of my repo
+=======
+Hello, this is a message from my cloned repository!
+>>>>>>> 64155b5 (Add greeting.txt and README.md)
